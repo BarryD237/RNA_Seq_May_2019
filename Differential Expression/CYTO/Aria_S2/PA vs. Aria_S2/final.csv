@@ -1,0 +1,3 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000129991","TNNI3",19,55151767,55157773,"troponin I3, cardiac type [Source:NCBI gene;Acc:7137]",10.5846717343378,-6.25085777919822,1.16852236566737,-5.34936939407934,8.82612287709889e-08,0.000667313730327857
+"2","ENSG00000134571","MYBPC3",11,47331397,47352702,"myosin binding protein C, cardiac [Source:HGNC Symbol;Acc:HGNC:7551]",5.47358844973943,-5.70335511459159,1.26777222537554,-4.49872224713091,6.83631043732961e-06,0.0198776064287209
