@@ -1,0 +1,3 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000203812","HIST2H2AA3","1",149842188,149842736,"histone cluster 2 H2A family member a3 [Source:HGNC Symbol;Acc:HGNC:4736]",36.9448957601577,22.855511961181,4.56785954847075,5.00354963165028,5.62841663151967e-07,0.00927968174567569
+"2","ENSG00000234475","HSPA1A","CHR_HSCHR6_MHC_DBB_CTG1",31797650,31800132,"heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]",27.1618802512846,22.4791496119748,4.69221178315665,4.7907363628954,1.66170345533902e-06,0.0158897623411035
