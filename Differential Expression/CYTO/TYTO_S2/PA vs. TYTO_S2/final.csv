@@ -1,0 +1,2 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000143546","S100A8",1,153390032,153391073,"S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]",13.4573929017386,-3.18373465890892,0.52010932714216,-6.12127968633547,9.28268014136667e-10,2.66292245215386e-05
