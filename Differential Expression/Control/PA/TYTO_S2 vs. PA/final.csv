@@ -1,0 +1,2 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000124713","GNMT",6,42960754,42963880,"glycine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:4415]",5.98104847530998,2.43953209980636,0.546954151228994,4.46021315374384,8.18781786497646e-06,0.023488393109258
