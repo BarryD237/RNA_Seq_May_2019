@@ -10,3 +10,5 @@ Table showing gene information, and associated log 2 fold chnages vs. PA cell ty
 | MAPK               | 04010           |
 | PI3K-ATK           | 04151           |
 | Focal Adhesion     | 04510           |
+
+To generate KEGG pathways, a greedy approach was used, using a pvalue of 0.1. **These results are not statistically significant!**
