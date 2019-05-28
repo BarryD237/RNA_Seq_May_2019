@@ -1,0 +1,2 @@
+# Cyto
+This folder contains all Cell type vs Cell type comparisons within the treated samples. Reported tables are subject to a Log2 Fold change filter of +/- 1 (i.e these genes are upregulated/downregulated twice as much vs. the reference cell type) and additional statistical filtering using the Benjamini & Hochberg method, which returns genes with a false discovery rate below 0.1 (10%) as significant.  
