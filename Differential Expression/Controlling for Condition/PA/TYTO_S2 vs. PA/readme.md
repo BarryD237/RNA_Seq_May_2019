@@ -1,8 +1,8 @@
 # Up Regulated Genes
-Table showing gene information, and associated log 2 fold chnages vs. PA cell type. 
+Table showing gene information, and associated log 2 fold changes vs. PA cell type, controlling for sample condition.
 
 # Down Regulated Genes
-Table showing gene information, and associated log 2 fold chnages vs. PA cell type.
+Table showing gene information, and associated log 2 fold chnages vs. PA cell type, controlling for sample condition. 
 
 # KEGG Pathway analysis
 | Signalling Pathway | HSA acc. number |
