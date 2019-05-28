@@ -1,5 +1,5 @@
 # Down Regulated Genes
-Table showing gene information, and associated log 2 fold changes vs. PA cell type, controlling for sample condition. 
+Table showing gene information, and associated log 2 fold changes vs. Aria_S2 cell type, controlling for sample condition. 
 
 # KEGG Pathway analysis
 | Signalling Pathway | HSA acc. number |
