@@ -1,6 +1,6 @@
 # RNA_Seq_May_2019
 
-## Qualoty Control
+## Quality Control
 The quality control folder contains a PDF report on the detection of sample outliers, using PCA. 
 
 
