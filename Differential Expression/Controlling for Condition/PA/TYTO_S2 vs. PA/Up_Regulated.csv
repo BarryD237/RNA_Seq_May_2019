@@ -1,0 +1,2 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000240821","RPL9P25",15,66379337,66379915,"ribosomal protein L9 pseudogene 25 [Source:HGNC Symbol;Acc:HGNC:36112]",0.447113853510008,18.3912381388519,3.4816380278538,5.28235215485306,1.27535747324963e-07,0.00365734262603797

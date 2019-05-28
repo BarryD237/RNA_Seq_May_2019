@@ -1,0 +1,2 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000244734","HBB",11,5225464,5229395,"hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]",37.3871864890928,-3.35740085394969,0.72220163068411,-4.64884141949302,3.33804722072407e-06,0.047862590074352
