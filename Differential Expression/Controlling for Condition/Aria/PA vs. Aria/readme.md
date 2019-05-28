@@ -7,7 +7,7 @@ Table showing gene information, and associated log 2 fold changes vs. Aria cell 
 # KEGG Pathway analysis
 | Signalling Pathway | HSA acc. number |
 |--------------------|-----------------|
-| PPAR               | 00320           |
+| PPAR               | 03320           |
 | Cardiac Muscle Contraction           | 04260           |
 | Complement + Coagulation Cascades     | 04610           |
 
