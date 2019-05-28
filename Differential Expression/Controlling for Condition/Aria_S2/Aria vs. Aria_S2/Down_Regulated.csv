@@ -1,0 +1,3 @@
+"","ensembl_gene_id","external_gene_name","chromosome_name","start_position","end_position","description","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj"
+"1","ENSG00000203812","HIST2H2AA3","1",149842188,149842736,"histone cluster 2 H2A family member a3 [Source:HGNC Symbol;Acc:HGNC:4736]",36.9448957601577,-22.7416160605309,2.8491946190714,-7.9817699739805,1.44249663159688e-15,4.13664759043038e-11
+"2","ENSG00000224200","FKBPL","CHR_HSCHR6_MHC_DBB_CTG1",32104478,32106062,"FKBP prolyl isomerase like [Source:HGNC Symbol;Acc:HGNC:13949]",0.687013246888691,-19.083967188723,4.16392866871751,-4.58316381164157,4.57992965163056e-06,0.0656693213099048
