@@ -1,0 +1,12 @@
+# Cell Types vs. PA
+These folders contain the list of up/down regulated genes when comparing Aria_S2/PA/TYTO_S2 vs. Aria cell type. The results captures all genes that display a log2 Fold Change above/below 0.05 (genes are at least 1.4 times more or less expressed compared to PA). The results have been statistically filtered according to an adjusted pvalue of 0.05. This means that there is a 5% chance that a result is a false positive. The results are thus statistically significant.  
+
+# Up_Regulated.pdf
+This heatmap shows the top upregulated genes differentially expressed across  Aria_S2, PA and TYTO_S2 vs. PA. These genes were captured by meeting the following criteria: must have a Padj value of > 0.1 and a log2 fold change of 1.
+
+Red cells indicate the gene is upregulated, Blue cells indicate it is downregulated. Yellow cells may indicate the absense of a gene. Therefore this is most useful to to check which genes are upregulated across cell types.
+
+# Down_Regulated.pdf
+This heatmap shows the top downregulated genes differentially expressed across Aria_S2, PA and TYTO_S2 vs. PA. These genes were captured by meeting the following criteria: must have a Padj value of > 0.1 and a log2 fold change of -1.
+
+Red cells indicate the gene is upregulated, Blue cells indicate it is downregulated. Yellow cells may indicate the absense of a gene. Therefore this is most useful to to check which genes are downregulated across cell types.
