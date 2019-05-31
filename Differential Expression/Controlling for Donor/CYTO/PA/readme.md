@@ -1,0 +1,2 @@
+# Aria vs PA
+This folder contains the list of up/down regulated genes when comparing Aria vs. PA cell type. The results captures all genes that display a log2 Fold Change >/< 0.05 (a base level of 1.4 times more or less expressed compared to PA). The results have been statistically filtered according to an adjusted pvalue of 0.05. This means that there is a 5% chance that a result is a false positive. The results are thus statistically significant.  
