@@ -5,4 +5,11 @@ These folders contain the list of up/down regulated genes when comparing Aria/Ar
 This heatmap shows the top 100 statistically significant differentially expressed genes (Padj 0.05) across Aria, Aria_S2 and TYTO_S2 vs. PA. 
 
 # Up_Regulated.pdf
-This heatmap shows the top upregulated genes differentially expressed across Aria, Aria_S2 and TYTO_S2 vs. PA. This is useful to see which genes are upregulated in one cell type, but may not be in another. These genes were captured by meeting the following criteria: must have a Padj value of > 0.1 (10% chance the result is a False positive)
+This heatmap shows the top upregulated genes differentially expressed across Aria, Aria_S2 and TYTO_S2 vs. PA. These genes were captured by meeting the following criteria: must have a Padj value of > 0.1 and a log2 fold change of 1.
+
+Red cells indicate the gene is upregulated, Blue cells indicate it is downregulated. Yellow cells may indicate the absense of a gene. Therefore this is most useful to to check which genes are upregulated across cell types.
+
+# Down_Regulated.pdf
+This heatmap shows the top downregulated genes differentially expressed across Aria, Aria_S2 and TYTO_S2 vs. PA. These genes were captured by meeting the following criteria: must have a Padj value of > 0.1 and a log2 fold change of -1.
+
+Red cells indicate the gene is upregulated, Blue cells indicate it is downregulated. Yellow cells may indicate the absense of a gene. Therefore this is most useful to to check which genes are downregulated across cell types.
